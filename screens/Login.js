@@ -1,8 +1,7 @@
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, TextInput, View, Button, TouchableHighlight, Image } from 'react-native';
 import React from 'react';
-import homeStack from '../routes/homeStack';
-import styleProp from "../styles"
+import styleProp from "../styles";
 
 export default function Login({navigation}) {
 

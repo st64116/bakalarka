@@ -12,7 +12,7 @@ const screens = {
           headerStyle: {
             backgroundColor: 'dodgerblue',
           },
-          headerTintColor: '#fff',
+          headerTintColor: 'black',
           headerTitleStyle: {
             fontWeight: 'bold',
           }
